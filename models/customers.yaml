@@ -147,7 +147,7 @@ properties:
       data:
         min: 1
         max: 4
-  ordeк_list:
+  order_list:
     type: array
     data:
       build: |
