@@ -2,7 +2,7 @@ name: Customers
 type: object
 key: _id
 data:
-  fixed: 1000
+  fixed: 100000
   pre_run: |
     globals.total_orders = documents.Orders.length
     globals.used_orders = 0

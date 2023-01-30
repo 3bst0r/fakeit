@@ -3,7 +3,7 @@ type: object
 key: _id
 
 data:
-  fixed: 3000
+  fixed: 300000
 
 properties:
   _id:
