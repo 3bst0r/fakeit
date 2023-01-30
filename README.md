@@ -1,3 +1,14 @@
+A Comparison of NoSQL Storage, Indexing and Performance in Practice
+===================================================================
+Master Thesis by Johannes A. Ebster
+
+The source code in this forked open source project has been modified and extended as part of Johannes Ebster's Master Thesis. 
+It creates the synthetic data that was loaded into the databases under test.
+
+The publicly available fork is at https://github.com/3bst0r/fakeit/tree/soe.
+
+The rest of this document is the README from the upstream repository.
+
 # FakeIt Data Generator
 
 Command-line utility that generates output data in JSON, YAML, CSON, or CSV formats based on models which are defined in YAML.  Data can be generated using any combination of [FakerJS](http://marak.github.io/faker.js/), [ChanceJS](http://chancejs.com/), or Custom Build Functions.  Model dependencies can be defined, where data from a previous model's generation can be made available to the model currently being generated.
