@@ -5,7 +5,7 @@ Master Thesis by Johannes A. Ebster
 The source code in this forked open source project has been modified and extended as part of Johannes Ebster's Master Thesis. 
 It creates the synthetic data that was loaded into the databases under test.
 
-The publicly available fork is at https://github.com/3bst0r/fakeit/tree/soe.
+The publicly available fork is at https://github.com/3bst0r/fakeit/tree/no-sql-indexing-in-practice.
 
 The rest of this document is the README from the upstream repository.
 
